@@ -4,6 +4,8 @@
 
     <h3>test script</h3>
     <h3>{{ message }}</h3>
+    <a href="/.auth/login/github">Login</a>
+    <a href="/.auth/logout">Log out</a>
   </div>
 </template>
 
